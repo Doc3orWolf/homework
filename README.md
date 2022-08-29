@@ -1,4 +1,3 @@
-# homework
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -62,19 +61,20 @@
         <!--Team-->
             <section>
                 <h2>Наша команда</h2>
-                    <li><img src="./img/who-do-1.jpg" alt="Worker-1" width="270px">
+                <ul>
+                    <li><img src="./img/who-do-1.jpg" alt="Worker-1">
                     <h3>Ігор Дем'яненко</h3>
                     <p>Product Designer</p>
                     </li>
-                    <li><img src="./img/who-do-2.jpg" alt="Worker-2" width="270px">
+                    <li><img src="./img/who-do-2.jpg" alt="Worker-2">
                     <h3>Ольга Рєпіна</h3>
                     <p>Frontend Developer</p>
                     </li>
-                    <li><img src="./img/who-do-3.jpg" alt="Worker-3" width="270px">
+                    <li><img src="./img/who-do-3.jpg" alt="Worker-3">
                     <h3>Микола Тарасов</h3>
                     <p>Marketing</p>
                     </li>
-                    <li><img src="./img/who-do-4.jpg" alt="Worker-4" width="270px">
+                    <li><img src="./img/who-do-4.jpg" alt="Worker-4">
                     <h3>Михайло Єрмаков</h3>
                     <p>UI Designer</p>
                     </li>
